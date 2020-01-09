@@ -3,17 +3,8 @@ import UIKit
 import Firebase
 
 /// SEGUES
-/// Present Modally -> Show view
-/// Show -> Show view and make it part of navigation stack
-
-/*
-CONTENT HUGGING
-Sets the priority with which a view resists being made larger than its intrinsic size.
-Setting a larger value to this priority indicates that we don’t want the view to grow larger than its content.
-COMPRESSION RESISTANCE
-Sets the priority with which a view resists being made smaller than its intrinsic size.
-Setting a higher value means that we don’t want the view to shrink smaller than the intrinsic content size.
-*/
+/// Present Modally == Show view
+/// Show == Show view and make it part of navigation stack
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
