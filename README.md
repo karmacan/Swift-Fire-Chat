@@ -14,3 +14,6 @@ XCode -> Build and run FireChat on -> Choose plugged device (top-left bar)
 |||
 Verify developer app certificate on plugged device
 Device -> Settings -> General -> Device Management -> Select your Developer App certificate -> Trust
+
+# App Screen
+<img src="./screenshot.png" />
